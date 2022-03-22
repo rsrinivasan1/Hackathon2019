@@ -1,0 +1,38 @@
+div.header {
+  width: 100%;
+}
+
+div.main {
+  width: 100%;
+}
+
+div.item {
+
+}
+
+a.counter {
+  
+}
+
+div.section {
+  margin-bottom: 10px;
+  float: left;
+  width: 100%;
+}
+
+div.column {
+  float: left;
+  width: 300px;
+}
+
+.hidden {
+  display: none;
+}
+
+.purchased {
+  display: none;
+}
+
+button {
+  margin: 5px;
+}
